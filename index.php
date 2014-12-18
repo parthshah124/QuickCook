@@ -57,7 +57,7 @@
 							Share delicious dish recipes with your friends and enjoy :)
 							</p>
 							<h5><br><br>
-							Direct all your mails and suggestions to: daiict.senproject@gmail.com
+							Direct all your mails and suggestions to: parth.shah124@gmail.com
 							</h5>
 					</div>
 				</div>
@@ -120,7 +120,7 @@
 	
 	<div class="footer">																				<!------------Footer Section--------->
 		<div>
-			<p>&copy; Developed by SOFTWARE ENGINEERING Group 24</p>
+			<p>&copy; Developed by Parth Shah</p>
 		</div>
 	</div>
 </body>
