@@ -140,7 +140,7 @@
 	
 	<div class="footer">																				<!------------Footer Section--------->
 		<div>
-			<p>&copy; Developed by SOFTWARE ENGINEERING Group 24</p>
+			<p>&copy; Developed by Parth Shah</p>
 		</div>
 	</div>
 </body>
